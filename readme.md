@@ -7,27 +7,29 @@ This is a project aimed at replicating the basic functionalities of Instagram us
 
 ### Login & Register 🔐
 
-![loginregister-ezgif com-video-to-gif-converter](https://github.com/ind-abhishek/instaclone/assets/101976775/87befa59-05fc-4648-ad2f-dde0c0d82716)
+![loginregister-ezgif com-video-to-gif-converter](https://github.com/ind-abhishek/instaClone/assets/101976775/6dbc9c94-1ff8-4432-96e7-bccb012f7d4e)
+
 
 
 Users can sign up for a new account or log in securely using their username and password.
 
 ### Feed 📰
-![whole-ezgif com-video-to-gif-converter](https://github.com/ind-abhishek/instaclone/assets/101976775/0c9fdf41-9712-46a8-94ef-87dc58f16be1)
+![whole-ezgif com-video-to-gif-converter](https://github.com/ind-abhishek/instaClone/assets/101976775/372a3cee-c415-49e2-948d-30bf1059499e)
+
 
 The feed displays posts from users that the logged-in user follows, along with stories from other users.
 
 ### Profile & Edit 🖋️
 
-![profile-editable-ezgif com-video-to-gif-converter](https://github.com/ind-abhishek/instaclone/assets/101976775/00214226-d32f-4c61-8219-f16b59c069cf)
+
+![profile-editable-ezgif com-video-to-gif-converter](https://github.com/ind-abhishek/instaClone/assets/101976775/b2a0876c-3a2d-479f-82b8-3055e39ebf89)
 
 
 Users have their own profile page where they can view their posts and edit their profile information.
 
 ### Add Post 📝
 
-![addpost-ezgif com-video-to-gif-converter](https://github.com/ind-abhishek/instaclone/assets/101976775/f2bba7cc-f253-4cad-997f-ee5cfcb6b56d)
-
+![addpost-ezgif com-video-to-gif-converter](https://github.com/ind-abhishek/instaClone/assets/101976775/cf2113bb-8df9-42b3-a599-967f4828b65a)
 
 Users can create new posts or stories by uploading images and adding captions.
 
@@ -52,7 +54,7 @@ To run this application locally, follow these steps:
 2. Install dependencies:
 
    ```bash
-   cd instagram-clone
+   cd instaClone
    npm install
    ```
 
