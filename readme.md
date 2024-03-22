@@ -46,7 +46,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/ind-abhishek/instaclone.git]
+   git clone [https://github.com/ind-abhishek/instgramClone.git]
    ```
 
 2. Install dependencies:
